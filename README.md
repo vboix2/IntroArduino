@@ -11,7 +11,8 @@ Repositori de l'assignatura de Robòtica
 6. [Servomotor](/Servomotor)
 7. [Sensor DHT](/Sensor_DHT)
 8. [Pantalla LCD](/Pantalla_LCD)
-9. [Sensor de moviment PIR](Sensor_moviment_PIR)
+9. [Sensor de moviment PIR](/Sensor_moviment_PIR)
+10. [Display de 7 segments](/Display_7_segments)
 
 ## Material
 * Arduino UNO
@@ -27,3 +28,4 @@ Repositori de l'assignatura de Robòtica
 * Sensor DHT11 o DHT22
 * Pantalla LCD 1602
 * Sensor de moviment PIR
+* Display de 7 segments
