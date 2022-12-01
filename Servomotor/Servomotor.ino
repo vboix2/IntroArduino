@@ -5,12 +5,10 @@
 Servo servo;
 
 int PINSERVO = 2;
-int POLSMIN = 1000;   // Pols mínim corresponent a l'angle 0º
-int POLSMAX = 2000;   // Pols màxim corresponent a l'angle 180º
 
 void setup() {
   // Inicialitzem el servomotor
-  servo.attach(PINSERVO, POLSMIN, POLSMAX);
+  servo.attach(PINSERVO);
 }
 
 void loop() {
